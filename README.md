@@ -16,4 +16,4 @@ Now, some other fun facts about me:
 Thanks for reading.
 Your dearest weirdo Mister August.
 
-Last update: January 31st, 2024.
+Last update: January 31st, 2025.
