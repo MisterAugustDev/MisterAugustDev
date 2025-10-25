@@ -1,11 +1,11 @@
 # Hello, everyone!  
 **My name is Augusto Luiz Melaré.**
 
-I have been studying to be a videogame and multiplatform software developer since 2024. I have still not decided wether back-end or fullstack.
-I was an English teacher until 2023. When I decided to change my career, I was certain I wanted to do something related to videogame creation. So I decided to study coding.
-I tried Python first just to feel what it is to work with programming languages. Afterwards, I chose Unity as my first game engine and started studying C#.
-As I study this language, I not only think about videogames I want to develop, but also I though of some apps.
-Besides becoming a videogame and software developer, I also want to learn pixel art. That will help me a lot when I create my first games all by myself before having a crew.
+I have been studying to be a back-end .NET developer since 2024.
+I used to work as English teacher, but one day I decided to change career. It all started becuse I wanted to do something related to videogames.
+So I decided to try coding. I started by learning Pyhton just to have a feeling of what is working with code.
+Shortly after I came to know the .NET platform, which has a very popular videogames engine, and took a C# learning path.
+And here I am. I study Computer Science at Fatec São Paulo and reserve my Saturdays to improve my C# and back-end skills.
 I was born and currently live in the state of São Paulo, Brazil.
 
 **My Languages:**
@@ -19,9 +19,9 @@ I was born and currently live in the state of São Paulo, Brazil.
 
 **My current goals:**
 
-+ Start an IT graduation course;
-+ Learn more C# and then .NET, ASP.NET and Blazor;
++ Learn more C# and then .NET frameworks;
 + Study SQL;
++ Study Azure;
 + Finish Unity's free 2D game developer course;
 + Improve my Spanish and German.
 
@@ -36,4 +36,4 @@ I was born and currently live in the state of São Paulo, Brazil.
 Thanks for reading.  
 Your dearest weirdo Mister August.
 
-*Last update: June 10th, 2025.*
+*Last update: October 25th, 2025.*
